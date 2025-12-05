@@ -1,4 +1,18 @@
-# Hello World! 👋 I'm @oferdebug
+# Hello World! 👋 I'm @Ofer
+
+Level 🆙 Developer |Zero To Mastery Student 🎓
+ 
+Currently pushing hard on: - Frontend: React, TypeScript, Next.js
+- Backend: Node.js, Express, Python
+- Database: PostgreSQL, MongoDB. My code is hungry for Pull Requests. 🍴
+ 
+I believe in Learning by 🔨 breaking things (and then fixing them). 
+ 
+Seeking an **INTERNSHIP** where I can convert ☕ coffee into 💻 code.
+ 
+**Let's Connect & Build:**
+🔗 https://www.linkedin.com/in/ofer-cohen-51254614a/
+✉️ mailto:ofercohen83@gmail.com
 
 - 👀 I'm interested in web development, cloud architecture, and building scalable applications
 - 🌱 I'm currently learning advanced React patterns, GraphQL, and serverless architecture
@@ -15,8 +29,3 @@ I am a full-stack developer passionate about creating elegant solutions to compl
 - Backend: Node.js, Express, Python
 - Database: PostgreSQL, MongoDB
 - DevOps: Docker, AWS, GitHub Actions
-
-<!---
-oferdebug/oferdebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
